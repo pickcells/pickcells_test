@@ -1,6 +1,6 @@
 # pickcells
 
-Com este teste temos como objetivo verificar suas habilidades de entendimento, interpretação e resolução, através de códigos, de problemas algoritmicos simples.
+Com este teste temos como objetivo verificar suas habilidades de entendimento, interpretação e resolução de problemas algorítmicos simples.
 
 A descrição detalhada do problema está no arquivo pickcells_test.pdf (segundo commit do projeto)
 
